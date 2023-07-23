@@ -1,0 +1,9 @@
+
+path: D:/hand-safety-detection/data
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: yes
+  1: no
